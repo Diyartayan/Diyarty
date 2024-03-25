@@ -1,0 +1,2 @@
+# Diyarty
+Telgraf 
